@@ -1,3 +1,16 @@
-body {
-    /* background-color: red; */
+#app {
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+textarea {
+    display: block;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
 }
