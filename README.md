@@ -1,6 +1,8 @@
 Copy and paste your git log to extract only the titles of your commits.
 
-## How to run it in dev mode ?
+## Try the [Git Log Extractor](https://git-log-extractor.vercel.app/) app.
+
+## Or run it in dev mode :
 
 This project use vite.js.
 
